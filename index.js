@@ -10,7 +10,6 @@ function LoadSavedComments(picture) {
     }
 
     const imageId = picture[0].id;
-    // console.log(imageId);
 
     for (i = 0; i < points.length; i++) {
         const point = points[i];
